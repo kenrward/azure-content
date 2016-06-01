@@ -28,7 +28,7 @@ The design guidance links below are design and architectural guidance that has b
 ##Service guidance
 | Service  | Disaster recovery guidance | Design guidance |
 |:---------|:--------------------------:|:------------------:|
-| [Cloud Services](https://azure.microsoft.com/services/cloud-services/ "Azure Cloud Services")       | [link](../cloud-services/cloud-services-disaster-recovery-guidance.md "Azure Cloud Services disaster recovery guidance")   | Not Available |
+| [Cloud Services](https://azure.microsoft.com/services/cloud-services/ "Azure Cloud Services")       | [link](../cloud-services/cloud-services-disaster-recovery-guidance.md "Azure Cloud Services disaster recovery guidance")   | [link] (https://channel9.msdn.com/Series/FailSafe "FailSafe: Building Scalable, Resilient Cloud Services") |
 | [Key Vault](https://azure.microsoft.com/services/key-vault/ "Azure Key Vault")                      | [link](../key-vault/key-vault-disaster-recovery-guidance.md "Azure Key Vault disaster recovery guidance")        | Not Available |
 | [Storage](https://azure.microsoft.com/services/storage/ "Azure Storage")                            | [link](../storage/storage-disaster-recovery-guidance.md "Azure Storage disaster recovery guidance")          | Not Available |
 | [SQL Databases](https://azure.microsoft.com/services/sql-database/ "Azure SQL Databases")           | [link](../sql-database/sql-database-disaster-recovery.md  "Azure SQL Database disaster recovery guidance")    | [link](../sql-database/sql-database-business-continuity-design.md "Azure SQL Databases design guidance") |
